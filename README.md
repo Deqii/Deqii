@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello there👋,
-I’m a passionate Informatics Engineering student who loves exploring the world of technology and constantly learning new things. With a strong foundation in full-stack development, I enjoy building robust, scalable applications and working on creative solutions.
+I’m a Informatics Engineering student who loves exploring the world of technology and constantly learning new things. With a strong foundation in full-stack development, I enjoy building robust, scalable applications and working on creative solutions.
 
 
 # 💻 Tech Stack:
