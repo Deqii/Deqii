@@ -2,8 +2,11 @@
 Hello 👋
 
 I am an Informatics Engineering student and aspiring Full-Stack Web Developer with hands-on experience in building modern web applications using JavaScript, TypeScript, React, Next.js, Express, and MySQL.
+
 I was selected as part of the DBS Foundation x Dicoding program, where I worked on industry-based projects and strengthened my understanding of scalable application architecture and clean code practices.
+
 During my 3-month internship, I contributed to real-world development workflows — implementing features, fixing bugs, collaborating through Git-based version control, and delivering production-ready solutions in a team environment.
+
 I am passionate about building maintainable systems, improving performance, and continuously leveling up my engineering skills.
 
 
