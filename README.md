@@ -17,7 +17,7 @@ Currently, I’m focused on deepening my backend expertise, improving system des
 
 
 # 🧩 Also Experienced With:
-## Backend & Database
+## Backend & Database:
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
