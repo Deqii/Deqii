@@ -1,29 +1,101 @@
-# 💫 About Me:
-Hello 👋
+## `$ whoami`
 
-I’m an Informatics Engineering student and Full-Stack Web Developer focused on building reliable, scalable, and production-ready web applications. I primarily work with TypeScript, React/Next.js, Express, and MySQL (Prisma ORM), with strong attention to clean architecture, structured backend design, and maintainable code.
+```ts
+const tio = {
+  name     : "Tio Prayudha",
+  role     : "Fullstack Web Developer",
+  location : "Bandung, Indonesia 🇮🇩",
+  status   : "Informatics Engineering Student",
+  focus    : ["Clean Architecture", "Scalable APIs", "Production-Ready Apps"],
+  currently: "Deepening backend expertise & system design thinking",
+};
+```
 
-Selected for the DBS Foundation x Dicoding program, I worked on industry-driven projects that strengthened my understanding of modern web architecture, RESTful API design, and real-world engineering standards.
+> 💡 Selected for **DBS Foundation × Dicoding** · Contributed to production systems during a **3-month internship** — implementing features, resolving issues, and collaborating via structured Git workflows.
 
-During my 3-month internship, I contributed directly to product development — implementing features, resolving production issues, and collaborating through structured Git workflows in a team environment.
+---
 
-I also have experience developing backend systems using Laravel and PHP, particularly in building REST APIs and MVC-based applications.
+## `$ cat tech-stack.json`
 
-Currently, I’m focused on deepening my backend expertise, improving system design thinking, and writing efficient, high-quality code that scales.
+**Primary Stack**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=22d3ee)
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=22d3ee)
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=22d3ee)
+![Express](https://img.shields.io/badge/Express-0f172a?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=22d3ee)
+![Prisma](https://img.shields.io/badge/Prisma-0f172a?style=for-the-badge&logo=prisma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=f97316)
+
+**Also Experienced With**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=fbbf24)
+![PHP](https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=a78bfa)
+![Laravel](https://img.shields.io/badge/Laravel-0f172a?style=for-the-badge&logo=laravel&logoColor=f87171)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=4ade80)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=22d3ee)
+![Vercel](https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## `$ ls ./projects`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 [himatif-ypkp](https://github.com/Deqii/himatif-ypkp)
+> Student association website — a real org, real users.
+
+![Stars](https://img.shields.io/github/stars/Deqii/himatif-ypkp?style=flat-square&color=22d3ee&labelColor=0f172a)
+![Forks](https://img.shields.io/github/forks/Deqii/himatif-ypkp?style=flat-square&color=22d3ee&labelColor=0f172a)
+![Lang](https://img.shields.io/badge/JavaScript-fbbf24?style=flat-square&logo=javascript&logoColor=0f172a)
+
+</td>
+<td width="50%">
+
+### 🎬 [netflix-clone-reactjs](https://github.com/Deqii/netflix-clone-reactjs)
+> Netflix UI clone with React & Firebase.
+
+![Stars](https://img.shields.io/github/stars/Deqii/netflix-clone-reactjs?style=flat-square&color=22d3ee&labelColor=0f172a)
+![Lang](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=22d3ee)
+![Lang](https://img.shields.io/badge/Firebase-0f172a?style=flat-square&logo=firebase&logoColor=fbbf24)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧑‍💼 [Portfolio](https://github.com/Deqii/Portfolio)
+> Personal portfolio website.
+
+![Stars](https://img.shields.io/github/stars/Deqii/Portfolio?style=flat-square&color=22d3ee&labelColor=0f172a)
+![Lang](https://img.shields.io/badge/HTML-f97316?style=flat-square&logo=html5&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 📋 More coming soon...
+> Currently building production-grade projects.
+
+![WIP](https://img.shields.io/badge/STATUS-IN_PROGRESS-22d3ee?style=flat-square&labelColor=0f172a)
+
+</td>
+</tr>
+</table>
 
 
-# 💻 Core Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
 
+```
+╔══════════════════════════════════════════╗
+║   Let's build something great together  ║
+╚══════════════════════════════════════════╝
+```
 
-# 🧩 Also Experienced With:
-## Backend & Database:
+[![GitHub](https://img.shields.io/badge/GitHub-Deqii-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/Deqii)
 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+*"Clean code always looks like it was written by someone who cares."*
 
-## Styling & Deployment:
-
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-# 🚀 Featured Projects:
-
+</div>
